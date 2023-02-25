@@ -16,6 +16,6 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.6.3
-	golang.org/x/crypto v0.0.0-20200406173513-056763e48d71
+	golang.org/x/crypto v0.1.0
 	wgcf/openapi v0.0.0-00010101000000-000000000000
 )
